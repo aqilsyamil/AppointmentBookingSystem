@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+129	10:10:00	01/06/2021	Available
+130	20:30:00	02/06/2021	Available
+131	15:15:00	03/06/2021	Available
+132	11:20:00	04/06/2021	Available
+133	12:30:00	05/06/2021	Available
+134	08:10:00	06/06/2021	Available

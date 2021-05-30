@@ -1,0 +1,6 @@
+Doctor ID	Doctor Name	Doctor Phone	Doctor Specialty	Fees
+SA00	Dr. Rahim	0120148345	Nursing	400.00
+SA11	Dr. Xu Han	0137982941	Radiology	350.00
+SA22	Dr. Lylia	0118027482	Neurology	250.50
+SA33	Dr. Ruva	0134859281	Cardiology	185.50
+SA44	Dr. Fina	0134924924	Emergency	230.00

@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+135	11:10:00	03/06/2021	Available
+136	08:30:00	05/06/2021	Available
+137	12:15:00	05/06/2021	Available
+138	14:20:00	05/06/2021	Available
+139	10:30:00	07/06/2021	Unavailable
+140	09:10:00	11/06/2021	Available

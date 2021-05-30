@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+117	10:10:00	31/05/2021	Available
+118	20:30:00	31/05/2021	Available
+119	15:15:00	01/06/2021	Available
+120	11:20:00	02/06/2021	Available
+121	12:30:00	03/06/2021	Available
+122	08:10:00	04/06/2021	Available

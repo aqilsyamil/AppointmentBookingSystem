@@ -1,0 +1,6 @@
+Doctor ID	Doctor Name	Doctor Phone	Doctor Specialty	Fees
+SC00	Dr. Aqil Syamil Amran 	0134568156	Neurology	490.00
+SC11	Dr. Amirul Najib Sol	01178968156	Ears, Nose & Throat	230.00
+SC22	Dr. Rayhan Hj. Amran	01159568156	Cardiology	180.00
+SC33	Dr. Christ Meng Hui 	01349568156	Psychology	128.00
+SC44	Dr. Nurfatin Saharudin	01139568156	Radiology	95.00

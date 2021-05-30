@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+229	11:00:00	02/06/2021	Available
+230	11:00:00	03/06/2021	Available
+231	11:00:00	09/06/2021	Available
+232	11:00:00	10/06/2021	Available
+233	11:00:00	16/06/2021	Available
+234	11:00:00	17/07/2021	Available

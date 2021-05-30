@@ -1,0 +1,6 @@
+Doctor ID	Doctor Name	Doctor Phone	Doctor Specialty	Fees
+SB00	Dr. Ghafur	0112842731	Radiology	255.00
+SB11	Dr. Linayati	0124824913	Cardiology	350.00
+SB22	Dr. Thina	0137814911	Emergency	230.00
+SB33	Dr. Cynthia	0121228321	Pharmacy	220.00
+SB44	Dr. Isfadh	0135929313	Neurology	550.00

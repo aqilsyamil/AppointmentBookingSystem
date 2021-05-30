@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+111	09:30:00	03/06/2021	Unavailable
+112	11:15:00	03/06/2021	Unavailable
+113	16:30:00	04/06/2021	Unavailable
+114	20:30:00	05/06/2021	Available
+115	11:10:00	06/06/2021	Available
+116	17:30:00	06/06/2021	Available

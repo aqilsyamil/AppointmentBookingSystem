@@ -1,0 +1,4 @@
+ID	Time	Date	Status
+311	08:30:00	28/05/2021	Unavailable
+312	12:45:00	28/05/2021	Available
+313	16:30:00	28/05/2021	Available

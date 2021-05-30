@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+235	15:10:00	02/06/2021	Available
+236	09:20:00	03/06/2021	Available
+237	16:30:00	03/06/2021	Available
+238	17:40:00	04/06/2021	Available
+239	20:50:00	05/06/2021	Available
+240	12:00:00	06/06/2021	Available

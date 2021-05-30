@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+327	20:00:00	31/05/2021	Available
+328	21:00:00	01/06/2021	Available
+329	18:00:00	02/06/2021	Available
+330	20:00:00	03/06/2021	Available
+331	20:00:00	04/06/2021	Available
+332	19:00:00	05/06/2021	Available

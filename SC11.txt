@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+314	20:00:00	31/05/2021	Available
+315	21:00:00	01/06/2021	Available
+316	18:00:00	02/06/2021	Available
+317	20:00:00	03/06/2021	Available
+318	20:00:00	04/06/2021	Available
+320	19:00:00	05/06/2021	Available

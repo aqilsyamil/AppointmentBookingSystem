@@ -1,0 +1,3 @@
+ID	Hospital	Doctor	Specialty	Date	Time	Fees	Due	Consult Status
+26247	Hospital Kuala Lumpur	Dr. Fina	Emergency	07/06/2021	10:30:00	230.0	Your consultation is in 6 day(s)	Approved
+73844	Hospital Sultan Ismail	Dr. Thina	Emergency	22/06/2021	11:00:00	230.0	Your consultation is in 21 day(s)	Approved

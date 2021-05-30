@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+211	20:00:00	31/05/2021	Available
+212	21:00:00	01/06/2021	Available
+213	18:00:00	02/06/2021	Available
+214	20:00:00	03/06/2021	Available
+215	20:00:00	04/06/2021	Available
+216	19:00:00	05/06/2021	Available

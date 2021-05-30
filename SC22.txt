@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+321	20:00:00	31/05/2021	Available
+322	21:00:00	01/06/2021	Available
+323	18:00:00	02/06/2021	Available
+324	20:00:00	03/06/2021	Available
+325	20:00:00	04/06/2021	Available
+326	19:00:00	05/06/2021	Available

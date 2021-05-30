@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+123	13:10:00	02/06/2021	Available
+124	16:30:00	04/06/2021	Available
+125	08:15:00	06/06/2021	Available
+126	10:20:00	08/06/2021	Available
+127	11:30:00	10/06/2021	Available
+128	09:10:00	12/06/2021	Available

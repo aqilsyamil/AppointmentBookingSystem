@@ -1,0 +1,4 @@
+Hospital ID	Hospital Name	Hospital Address	Hospital Working Hours	Hospital Rating
+H123	Hospital Kuala Lumpur	Jalan Pahang, 50586 Kuala Lumpur, Wilayah Persekutuan K.L.	9.00AM - 4.00PM	3.9
+H456	Hospital Sultan Ismail	Jalan Mutiara, Taman Mount Austin, 81100 Johor Bahru, Johor	9.00AM - 4.00PM	3.2
+H789	Hospital Prince Court	Jalan Kia Peng, 50450 Kuala Lumpur, Wilayah Persekutuan K.L.	8.00AM - 5.00PM	4.5

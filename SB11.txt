@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+217	13:30:00	29/06/2021	Available
+218	12:00:00	30/06/2021	Available
+219	11:30:00	05/06/2021	Available
+220	14:00:00	06/06/2021	Available
+221	15:30:00	12/06/2021	Available
+222	14:00:00	13/06/2021	Available

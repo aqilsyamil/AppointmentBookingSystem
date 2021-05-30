@@ -1,0 +1,7 @@
+ScheduleID	Time	Date	Status
+223	08:30:00	01/06/2021	Available
+224	09:00:00	08/06/2021	Available
+225	10:30:00	15/06/2021	Available
+226	11:00:00	22/06/2021	Unavailable
+227	12:30:00	29/06/2021	Available
+228	13:00:00	06/07/2021	Available
